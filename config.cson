@@ -1,0 +1,24 @@
+"*":
+  _dartlang:
+    _errorsInitialized: true
+    _errorsInitialized2: true
+    _firstRun: true
+    _initialized: true
+    _initializedSymLinks: true
+    _version: "0.5.4"
+  "autocomplete-plus":
+    autoActivationDelay: 500
+  core:
+    followSymlinks: false
+  dartlang:
+    sdkLocation: "/usr/local/opt/dart/libexec"
+    showOutlineView: false
+  editor:
+    invisibles: {}
+  "exception-reporting":
+    userId: "dd3f4cbd-e414-8db4-5a17-26de802d6c07"
+  linter:
+    displayLinterInfo: false
+    showErrorPanel: false
+  welcome:
+    showOnStartup: false
